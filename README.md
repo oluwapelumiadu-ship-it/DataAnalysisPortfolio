@@ -9,7 +9,7 @@ What set me apart is my ability to combine business understanding with analytica
 
 ---
 
-##🛠️ Technical Skills 
+## 🛠️ Skills & Tools
 - **Data Analysis:** Excel, SQL, Python (Pandas, Matplotlib, Seaborn)
 - **Data visualization:** Power BI
 - **Data Management:** MySQL
@@ -20,5 +20,7 @@ What set me apart is my ability to combine business understanding with analytica
 ## 📬 Let's Connect
 - 💼 LinkedIn: 
 - 📧 Email: oluwapelumiadu@gmail.com
+
+  
 
   
